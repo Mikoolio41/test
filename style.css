@@ -1,6 +1,10 @@
-/* body {
+body {
   margin: 0;
-} */
+}
+
+* {
+  background-color: red;
+}
 
 .container {
   margin: 20px auto;
